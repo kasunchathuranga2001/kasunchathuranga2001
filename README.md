@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/39ykpBgQ/1.gif)
+![MasterHead](https://i.ibb.co/DPLNWPPp/2.gif)
 
 <h1 align="center">Hi 👋, I'm Kasun Chathuranga</h1>
 <h3 align="center">A passionate Software Engineer & ML Engineer from Sri Lanka</h3>
