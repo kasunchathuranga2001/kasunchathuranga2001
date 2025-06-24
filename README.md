@@ -1,3 +1,4 @@
+![MasterHead](https://i.ibb.co/gZXr7jPY/12eca-machine-learning.gif)
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kasun Chathuranga</h1>
