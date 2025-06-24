@@ -49,3 +49,8 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunchathuranga2001&show_icons=true&locale=en" alt="kasunchathuranga2001" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunchathuranga2001&" alt="kasunchathuranga2001" /></p>
+
+<p align="center">
+  💡 *Feel free to explore my repositories and contribute to open-source projects together!* ✨
+</p>
+<img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" >
