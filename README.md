@@ -48,7 +48,13 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunchathuranga2001&show_icons=true&locale=en" alt="kasunchathuranga2001" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunchathuranga2001&" alt="kasunchathuranga2001" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasunchathuranga2001&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasunchathuranga2001&theme=tokyo-night"/>
+</p>
 
 <p align="center">
   💡 *Feel free to explore my repositories and contribute to open-source projects together!* ✨
